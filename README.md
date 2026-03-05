@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hallo, I'm APiyllo
 
-<!--
-**Miedzypol/Miedzypol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I+love+building+amazing+things;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## Polish, learning Back-end developer
+I just make stuff no one asked about, but everyone (maybe?) needed it.
+There are many, MANY things that are behing a paywall, and just why? So I'm trying to make alternatives to them. They may not be good, but they are free, and would be. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My organizations!
+![Static Badge](https://img.shields.io/badge/NanoCloud%20Initiative%20Member-blue)
+My website: https://www.nanocloud.pl
+
+## Tech Stack 'n stuff
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+
+### Frameworks & Libraries
+![Static Badge](https://img.shields.io/badge/Bottle-yellow)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+## My stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical)
+
+
+```
+              @*=++++++==++.:#%@                                                              
+            @@@*##########%%%%-%@@@@@@-                              @@@@       @.            
+            @@+*#############%%@@**++#@@@@@@@@@@@@@@@        @@   @      @      :.    @@@@@@  
+             @@@+###############%%@@@*******##*++*#%@@@@@@@@             @    @@              
+              @@@++++*##%@@@@@#**++*#@+***+=-=+++=-=+****-@@    @+@@@@  @      @@ @# +@@@.    
+              @@@@@@@@@@@@  :@@@@@@@#%%@**+@@@@**@@@#=+=-@@     @  -:-@        @  @ @     @@# 
+               @++++#@@  @  :-  @++*#%%@+@@@@@@@@@@@@@@@@@      :@   @ @@ @@ @@:  @@@#@@@#@@@ 
+        @@     @####@    @ @ @@ @@####%@*+=------------:@@     @ @@@@       #%  @@        *+=@
+            @@ @####@@.#+@ @     @###%@*#############*=@@@             @  @ .  +   @*         
+              +@*#%%#@  @    % @@@*##@**#############*@@@@     @= @      @ .@     #@@@@@  .-: 
+               @@-@+@#@@@   @@@**@+@%#++=+*####****+**-@%@@    @  @   .-@ @@ @@   *      .    
+             @@@:@+****+%@@@@=@=@=+@-=%@+@-=---=@@@@+*+@@@   : -      .@ @ @     @ *  %       
+             @+*=+**#########+++**+@@@@-:@#@@@@@@  @@-@=@@@@ @  :      @% + *@   @@  #*+*#    
+           @@@*###################*++==@@-.@+# @@  @%@@+++@@@ @           =*       @=-...-=+@ 
+          @@***+++**##################*==*@@ @@@@%@@@ %*#+@@     =      @@ @      @  ...... = 
+        @@@@@@@@@@@@@@@@@@**######**+=+@@@   @@@@@#@@ @*=@:@% # ==    #  -- +    @  .......:* 
+       @             =   @@@@@@@=+%@@@@@ -  @@@+=-#+#@+@:@#@@ .@  @  -=  @= @@     ....... .- 
+        @ @@@@@@@@@+           @@@@      @@@ @+*#+@@@@@@@#@.   .- @  :    @ # @ @:%%=. ..  @  
+          @@@@=+=@@@ @ @@@@@@        #@@+@@ @@*##*@    @@@ .   .  @       @  =.*@    @@  .@   
+            @@*#=@ @ @@ @#+#@@@ @@*@@%    @@ @@=*@@ *   .=  @@-  @.@  @   #  @ =@.-.:  @+     
+            @@@@=@ @  @ -@%#%%@ -@        -@ @@=@=@ ::*       @.-- @@:     @  @   @@#@@@@@@@@ 
+@@@           @@@@@@: @  @@@@#@  @ -=%==%+ @ @-@@:@ :=+ @  @@+   #@   + @. @  @ @   @@    @@@ 
+:*@            @.@ %+@ @@@@ @-@@ @ @   @ =@@ @ @@ .**. @ @*--+#@ @+  @      @=    @     +.    
+:*@@@@@           @ @#@   @ @@@@  @  @@    @   @ =   -@@   +@   ++  @   :@@ @ *#@             
+-*****@@@          @      @ @@ @   @     @@+      @@@@@@@@-   #@..=@  **          @         : 
+-##%=%#*@@          @@@@@       @     *@*+     @@@  @@@@:@@   @ .-@      .   @   @  @@@@@%@@@ 
+-##%%=@##@          @###@                     @@       @=*@@ @   -   @         @#%=@@@ @      
+:++*= %+@@           @@@@ =                .@@:@ *     @+*#@%@@@    @  .   @*@@-.-    =@@@    
++@@@@@@@@               @               :@@@=  @   @   @*##*=+@@@@@@#  @*@-- ..    **@    @@  
+@@@@@@@                @@@@@        -%@@@=  @      @  @#*##+@@-==-=@@@=-.:::  .-@@ :@      @@ 
+                     @@@###@@%@@@@@@@:  @ @       @  @@+###+@@+%@@@   ::     @     @         *
+                     @=######@. .: @@@: @ @     @.@  @=*###+=*@@    .    @@@@@@  = @          
+                     @@#######@@ :- @@@ * @ #*@  @  @@*###%@@@       @@@@@=++=*@. @           
+                      @@#%###***@  .: @  @ @    @  #@=+*%@@       @@@@**+@+++++*@@@           
+          @ @@@@       @@%%%#%@@@@@ .:+@  +@@  @   @@+%@@   #*+@@@*++@**+++@@++-:.@           
+         %   @@@@@      %=@@@@@  @@@@:: @  @#      @#@@  - +@%*@@@=*+@+###*++=%@@@@@          
+          @   @@@@ @@@@@@@@       @-+@ : %  %@    @@#    @%%*@+++@=*+@+###**+%@--#@@@         
+         @@@    @@@  @*+@        :@%@#%@: -@ @    @ : @@%@@+*===@@+*=@=*#++%#%@+*++:@@        
+          @  @.   @@@@*+@       :  *=@=*%@ -+   @-% @@@#+@@+#*@+=@%*=@-**+@@#++*###*+#@@      
+            @  @ @ #@**+@@@     #@@@-=@+*@ @@@@-# @@%*#*-@+*#++#=@@==@-@%---++++++***+*@@     
+              @   @ @@**+-@+@@@@@@@@#+%@*@@  @%=@@@*###*#@=###*@==#-@%-+@@@@@@@@@%+**#+*@     
+              %@ @   @@@@@@@@#+++=#@+*-*+#@@  +: @*+###+@*+##+=:@--@@+#%**########%@###*@@    
+               @     @@    @+++**+@*@@@@@@@@@@ *@ @@@%**@+*#*=@@@*@@@@*##########%#@+####@    
+                 @@@       @@@@@=%@@@@@     @ @ =    @@@@#+*+@@@@@@@@@@#%%%####%%%@+*++=@@    
+                             @@@@@--@+%@      %@@@@%     @@@@@@@@@    @@@@#+@@@@+**+*=@@@     
+                                 @=@@-=#@- @@#=.  .=*@.         @        %+++:.:::-:@ @       
+
+```
