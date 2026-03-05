@@ -26,7 +26,8 @@ My website: https://www.nanocloud.pl
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ## My stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miedzypol&layout=compact&theme=radical)
+![Miedzypol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miedzypol&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miedzypol&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miedzypol)](https://github.com/Miedzypol/github-readme-stats)
 
 ≽^- ˕ -^≼
