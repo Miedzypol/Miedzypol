@@ -17,7 +17,7 @@ My website: https://www.nanocloud.pl
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 ### Frameworks & Libraries
-![Static Badge](https://img.shields.io/badge/Bottle Framework-yellow)
+![Static Badge](https://img.shields.io/badge/Bottle%20Framework-yellow)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
